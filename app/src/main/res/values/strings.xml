@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BitsAndPizzas</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="text">BITS AND PIZZAS IS MOST FAMOUS DIGITAL FOOD RESTRAUNT SINCE 2017</string>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Lasagne</item>
+        <item>Spaghetti</item>
+    </string-array>
+    <string-array name="pizza">
+        <item>RedChilli</item>
+        <item>HotPepper</item>
+    </string-array>
+
+</resources>
